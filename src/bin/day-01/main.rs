@@ -7,5 +7,5 @@ fn main() {
 
     println!();
     println!("Day 1, Part 1: {}", part1.unwrap());
-    println!("Day 1, Part 2: {}", part2.unwrap());
+    println!("Day 1, Part 2: {:?}", part2.unwrap());
 }
